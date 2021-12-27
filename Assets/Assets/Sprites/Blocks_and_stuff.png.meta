@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 296edb4ada458224e8b948c0773ca0e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 447642384102031383
+    second: Blocks_and_stuff_0
+  - first:
+      213: -2134280103167386618
+    second: Blocks_and_stuff_1
+  - first:
+      213: 8912415363308693793
+    second: Blocks_and_stuff_2
+  - first:
+      213: -3019181120380239001
+    second: Blocks_and_stuff_3
+  - first:
+      213: 3646780494459515965
+    second: Blocks_and_stuff_4
+  - first:
+      213: -1241026898696998188
+    second: Blocks_and_stuff_5
+  - first:
+      213: -7022959991518228541
+    second: Blocks_and_stuff_6
+  - first:
+      213: 2498580496368640358
+    second: Blocks_and_stuff_7
+  - first:
+      213: 6136552425229469168
+    second: Blocks_and_stuff_8
+  - first:
+      213: -7890673143078488305
+    second: Blocks_and_stuff_9
+  - first:
+      213: -1500484020963014628
+    second: Blocks_and_stuff_10
+  - first:
+      213: 3660448123132135276
+    second: Blocks_and_stuff_11
+  - first:
+      213: -2898254907018668291
+    second: Blocks_and_stuff_12
+  - first:
+      213: 8247881492778159234
+    second: Blocks_and_stuff_13
+  - first:
+      213: -9125406400718090536
+    second: Blocks_and_stuff_14
+  - first:
+      213: 5636341537820269079
+    second: Blocks_and_stuff_15
+  - first:
+      213: 8769817989209095291
+    second: Blocks_and_stuff_16
+  - first:
+      213: -4830574756238827588
+    second: Blocks_and_stuff_17
+  - first:
+      213: -1471398317561662711
+    second: Blocks_and_stuff_18
+  - first:
+      213: 2419889696400940224
+    second: Blocks_and_stuff_19
+  - first:
+      213: 62253416402263424
+    second: Blocks_and_stuff_20
+  - first:
+      213: 7228159670195352448
+    second: Blocks_and_stuff_21
+  - first:
+      213: -636477976226370833
+    second: Blocks_and_stuff_22
+  - first:
+      213: -1872829501354654963
+    second: Blocks_and_stuff_23
+  - first:
+      213: -6703079259988686761
+    second: Blocks_and_stuff_24
+  - first:
+      213: -2682297171895475999
+    second: Blocks_and_stuff_25
+  - first:
+      213: 1627652111251647710
+    second: Blocks_and_stuff_26
+  - first:
+      213: 817738628150999333
+    second: Blocks_and_stuff_27
+  - first:
+      213: 8511409246578062898
+    second: Blocks_and_stuff_28
+  - first:
+      213: 911247600910392599
+    second: Blocks_and_stuff_29
+  - first:
+      213: 4312322282572022298
+    second: Blocks_and_stuff_30
+  - first:
+      213: -3284387004872885745
+    second: Blocks_and_stuff_31
+  - first:
+      213: 8479875823704515708
+    second: Blocks_and_stuff_32
+  - first:
+      213: 5432723525967756660
+    second: Blocks_and_stuff_33
+  - first:
+      213: -8086253384341324987
+    second: Blocks_and_stuff_34
+  - first:
+      213: 1793574713625855464
+    second: Blocks_and_stuff_35
+  - first:
+      213: 3727968817594704311
+    second: Blocks_and_stuff_36
+  - first:
+      213: 6046128541615687016
+    second: Blocks_and_stuff_37
+  - first:
+      213: 6406655391461036309
+    second: Blocks_and_stuff_38
+  - first:
+      213: 6302969113169526764
+    second: Blocks_and_stuff_39
+  - first:
+      213: 4280566704266430303
+    second: Blocks_and_stuff_40
+  - first:
+      213: 4879698455174440237
+    second: Blocks_and_stuff_41
+  - first:
+      213: -175619929447857568
+    second: Blocks_and_stuff_42
+  - first:
+      213: 7953836114546609842
+    second: Blocks_and_stuff_43
+  - first:
+      213: -1568917640536696021
+    second: Blocks_and_stuff_44
+  - first:
+      213: 6117959922782239179
+    second: Blocks_and_stuff_45
+  - first:
+      213: 8675226935933710138
+    second: Blocks_and_stuff_46
+  - first:
+      213: 2113870978467428921
+    second: Blocks_and_stuff_47
+  - first:
+      213: -25227280356072460
+    second: Blocks_and_stuff_48
+  - first:
+      213: -3404905111666035511
+    second: Blocks_and_stuff_49
+  - first:
+      213: 1278926182079600897
+    second: Blocks_and_stuff_50
+  - first:
+      213: -1650108632858661586
+    second: Blocks_and_stuff_51
+  - first:
+      213: 2788267906502061912
+    second: Blocks_and_stuff_52
+  - first:
+      213: -1525338489250120123
+    second: Blocks_and_stuff_53
+  - first:
+      213: -3091711315191544126
+    second: Blocks_and_stuff_54
+  - first:
+      213: 2251766769398119299
+    second: Blocks_and_stuff_55
+  - first:
+      213: 7680616313264778410
+    second: Blocks_and_stuff_56
+  - first:
+      213: -1665154651296006358
+    second: Blocks_and_stuff_57
+  - first:
+      213: -4151206241108361673
+    second: Blocks_and_stuff_58
+  - first:
+      213: -7640945241987102039
+    second: Blocks_and_stuff_59
+  - first:
+      213: 9140859949154113530
+    second: Blocks_and_stuff_60
+  - first:
+      213: -7113594373258704632
+    second: Blocks_and_stuff_61
+  - first:
+      213: 198946901624309846
+    second: Blocks_and_stuff_62
+  - first:
+      213: -6312599566222545920
+    second: Blocks_and_stuff_63
+  - first:
+      213: 2491609383375045005
+    second: Blocks_and_stuff_64
+  - first:
+      213: -4765854852056236300
+    second: Blocks_and_stuff_65
+  - first:
+      213: 3066719731301476841
+    second: Blocks_and_stuff_66
+  - first:
+      213: -5182931821694866685
+    second: Blocks_and_stuff_67
+  - first:
+      213: -8789253142563219807
+    second: Blocks_and_stuff_68
+  - first:
+      213: -1746543754309664643
+    second: Blocks_and_stuff_69
+  - first:
+      213: 2129593356064252474
+    second: Blocks_and_stuff_70
+  - first:
+      213: -3473449115585659126
+    second: Blocks_and_stuff_71
+  - first:
+      213: -4941832615706121939
+    second: Blocks_and_stuff_72
+  - first:
+      213: -5370296228835750231
+    second: Blocks_and_stuff_73
+  - first:
+      213: -2748444597951059847
+    second: Blocks_and_stuff_74
+  - first:
+      213: -8902632407518132445
+    second: Blocks_and_stuff_75
+  - first:
+      213: 8404445162669012071
+    second: Blocks_and_stuff_76
+  - first:
+      213: 7461002174398954433
+    second: Blocks_and_stuff_77
+  - first:
+      213: 1999005526179331682
+    second: Blocks_and_stuff_78
+  - first:
+      213: -2961510676157559713
+    second: Blocks_and_stuff_79
+  - first:
+      213: 6213552865588564
+    second: Blocks_and_stuff_80
+  - first:
+      213: 3799122643749632501
+    second: Blocks_and_stuff_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blocks_and_stuff_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 699
+        width: 300
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108fca6068563600800000000000000
+      internalID: 447642384102031383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 771
+        width: 219
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1687dd838162e0800000000000000
+      internalID: -2134280103167386618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 805
+        width: 37
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129afbc8d824fab70800000000000000
+      internalID: 8912415363308693793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 824
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638b2f64c6b916d0800000000000000
+      internalID: -3019181120380239001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 827
+        width: 188
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34351ac987fb9230800000000000000
+      internalID: 3646780494459515965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_5
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 846
+        width: 13
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f5726c9cf6cee0800000000000000
+      internalID: -1241026898696998188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_6
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 862
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf86c1d81f698e90800000000000000
+      internalID: -7022959991518228541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 829
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a5c039bdbca220800000000000000
+      internalID: 2498580496368640358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 834
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54d5bfae9692550800000000000000
+      internalID: 6136552425229469168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 699
+        width: 138
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07771c3592be7290800000000000000
+      internalID: -7890673143078488305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 704
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18895b9bb53d2be0800000000000000
+      internalID: -1500484020963014628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 719
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6749029c268cc230800000000000000
+      internalID: 3660448123132135276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 704
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69e96848457c7d0800000000000000
+      internalID: -2898254907018668291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 717
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c8f8eb48c567270800000000000000
+      internalID: 8247881492778159234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 701
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4f1e1a3b0c5180800000000000000
+      internalID: -9125406400718090536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_15
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 701
+        width: 211
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5e8a14ce483e40800000000000000
+      internalID: 5636341537820269079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 732
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c73a72ff6a4b970800000000000000
+      internalID: 8769817989209095291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 709
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf5a694ad956fcb0800000000000000
+      internalID: -4830574756238827588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 702
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90331a6a60b849be0800000000000000
+      internalID: -1471398317561662711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc1b959bdc259120800000000000000
+      internalID: 2419889696400940224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 547
+        width: 120
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d16b2072b2dd000800000000000000
+      internalID: 62253416402263424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 548
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837cc17ce49f4460800000000000000
+      internalID: 7228159670195352448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 549
+        width: 164
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaeaaf17a6ca27f0800000000000000
+      internalID: -636477976226370833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 561
+        width: 195
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0342eebd7f5206e0800000000000000
+      internalID: -1872829501354654963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 607
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758061f6de0e9f2a0800000000000000
+      internalID: -6703079259988686761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_25
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 607
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a22ffee096cad0800000000000000
+      internalID: -2682297171895475999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_26
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 550
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca115b8f4969610800000000000000
+      internalID: 1627652111251647710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 551
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5293e0223f0395b00800000000000000
+      internalID: 817738628150999333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_28
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 550
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b2484d999e1670800000000000000
+      internalID: 8511409246578062898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 118
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd0b27dd665ac00800000000000000
+      internalID: 911247600910392599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 424
+        width: 132
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1205b1b44278db30800000000000000
+      internalID: 4312322282572022298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 399
+        width: 158
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a74a5ab638b62d0800000000000000
+      internalID: -3284387004872885745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 468
+        width: 323
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a45322229ea570800000000000000
+      internalID: 8479875823704515708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 458
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d37385349e46b40800000000000000
+      internalID: 5432723525967756660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_34
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 459
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf886c36bd7cf80800000000000000
+      internalID: -8086253384341324987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 416
+        width: 298
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cac303be04e810800000000000000
+      internalID: 1793574713625855464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_36
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 417
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1277253e76cb330800000000000000
+      internalID: 3727968817594704311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_37
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 424
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658a55ffd928e350800000000000000
+      internalID: 6046128541615687016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 113
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115066722309e850800000000000000
+      internalID: 6406655391461036309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 345
+        width: 13
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7abc8305a87750800000000000000
+      internalID: 6302969113169526764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 268
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574a25fcb0a76b30800000000000000
+      internalID: 4280566704266430303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 315
+        width: 161
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e1b724eb28b340800000000000000
+      internalID: 4879698455174440237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 340
+        width: 134
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06208c9ca92109df0800000000000000
+      internalID: -175619929447857568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 362
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be49311ec3b16e60800000000000000
+      internalID: 7953836114546609842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_44
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 327
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b57f9e7b51a3ae0800000000000000
+      internalID: -1568917640536696021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_45
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 326
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f28ba22c57e450800000000000000
+      internalID: 6117959922782239179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_46
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 353
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3faa365fe8946870800000000000000
+      internalID: 8675226935933710138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 266
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afe84847af55d10800000000000000
+      internalID: 2113870978467428921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 170
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32ab31cef56aff0800000000000000
+      internalID: -25227280356072460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_49
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 227
+        width: 318
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fb3547d85fb0d0800000000000000
+      internalID: -3404905111666035511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_50
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 237
+        width: 161
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091dc82698afb110800000000000000
+      internalID: 1278926182079600897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_51
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 240
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d67a9e0f2a919e0800000000000000
+      internalID: -1650108632858661586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6da953eae1b620800000000000000
+      internalID: 2788267906502061912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 113
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ef302c9b8e4dae0800000000000000
+      internalID: -1525338489250120123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_54
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 138
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6c3fd70f80815d0800000000000000
+      internalID: -3091711315191544126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 149
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf00742f1ef3f10800000000000000
+      internalID: 2251766769398119299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 150
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca730e7d7079a60800000000000000
+      internalID: 7680616313264778410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_57
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 159
+        width: 178
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7961caae24e8e0800000000000000
+      internalID: -1665154651296006358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_58
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 176
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef951fae3f366c0800000000000000
+      internalID: -4151206241108361673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac52f29c8e5f590800000000000000
+      internalID: -7640945241987102039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 76
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71de281bbdade70800000000000000
+      internalID: 9140859949154113530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 95
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80982b16b9f674d90800000000000000
+      internalID: -7113594373258704632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_62
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 55
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6584b78272dc2c200800000000000000
+      internalID: 198946901624309846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_63
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 106
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c250ed3242568a0800000000000000
+      internalID: -6312599566222545920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_64
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 73
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8189177889f39220800000000000000
+      internalID: 2491609383375045005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_65
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 104
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4febd1c33484cddb0800000000000000
+      internalID: -4765854852056236300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_66
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 108
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9e7e1f85d2f8a20800000000000000
+      internalID: 3066719731301476841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_67
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 112
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2fc0f7f68218b0800000000000000
+      internalID: -5182931821694866685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_68
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 112
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6988495dc460680800000000000000
+      internalID: -8789253142563219807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_69
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 112
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7002b385b703c7e0800000000000000
+      internalID: -1746543754309664643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_70
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 52
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ed30dfd5dd8d10800000000000000
+      internalID: 2129593356064252474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_71
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 62
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3f18be64dbcfc0800000000000000
+      internalID: -3473449115585659126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_72
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 83
+        width: 139
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a5614b651b6bb0800000000000000
+      internalID: -4941832615706121939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae00ad6800e875b0800000000000000
+      internalID: -5370296228835750231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_74
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978294633309bd9d0800000000000000
+      internalID: -2748444597951059847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32740085efe737480800000000000000
+      internalID: -8902632407518132445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 12
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f227c85692a470800000000000000
+      internalID: 8404445162669012071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb777192fdca8760800000000000000
+      internalID: 7461002174398954433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_78
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 115
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e36f35fe4edbb10800000000000000
+      internalID: 1999005526179331682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_79
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 5
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0a151bb996e6d0800000000000000
+      internalID: -2961510676157559713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_80
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 15
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b8538133161000800000000000000
+      internalID: 6213552865588564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks_and_stuff_81
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 35
+        width: 118
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9f6d67ae139b430800000000000000
+      internalID: 3799122643749632501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
